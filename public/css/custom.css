@@ -1,0 +1,69 @@
+/* #pbody{
+width: 1200px;
+} */
+
+.dark-blue-bg{
+    background-color: #003081;
+}
+
+.blue-bg{
+    background-color: #12459E;
+}
+
+.border-blue-bg{
+    border-color: #12459E;
+}
+
+.dark-blue-text{
+    color: #003081;
+}
+
+.blue-text{
+    color: #12459E;
+}
+
+.gray-bg{
+    background-color: #F8F8F8;
+}
+
+.gray2-bg{
+    background-color: #E8E8E8;
+}
+
+.light-blue-bg{
+    background-color: #2F76B8;
+}
+
+.light-gray-bg{
+    background-color: #FDFDFD;
+}
+
+.gray-box{
+    background-color: #F1F1F1;
+}
+
+/* this is comment in css */
+.body-wrapper{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.top-header-container{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.top-bar-container{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav-bar-container{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-container{
+    margin-right: auto;
+    margin-left: auto;
+}

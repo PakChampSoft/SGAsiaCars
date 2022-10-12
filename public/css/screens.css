@@ -1,0 +1,23 @@
+@media screen and (max-width: 9999px) {
+    .body-wrapper, .top-header-container, .top-bar-container, .nav-bar-container, .footer-container {
+        width: 1590px;
+    }
+}
+
+@media screen and (max-width: 1760px) {
+    .body-wrapper, .top-header-container, .top-bar-container, .nav-bar-container, .footer-container {
+        width: 1460px;
+    }
+}
+
+@media screen and (max-width: 1530px) {
+    .body-wrapper, .top-header-container, .top-bar-container, .nav-bar-container, .footer-container {
+        width: 1330px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .body-wrapper, .top-header-container, .top-bar-container, .nav-bar-container, .footer-container {
+        width: 1200px;
+    }
+}
